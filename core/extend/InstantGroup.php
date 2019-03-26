@@ -2,7 +2,7 @@
 
 namespace Swoole\InstantChat\Extend;
 
-use VesselBox;
+use VesselBox\VesselBox;
 
 /* 即时聊天系统 组/群类 处理函数
 ** 

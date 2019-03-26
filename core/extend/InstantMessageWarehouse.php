@@ -2,7 +2,7 @@
 
 namespace Swoole\InstantChat\Extend;
 
-use VesselBox;
+use VesselBox\VesselBox;
 
 /* 即时聊天系统 消息仓库类 处理函数
 ** 针对存储容器建立一套完整的存储机制/体系

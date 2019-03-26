@@ -4,6 +4,7 @@
 namespace Swoole\InstantChat\Core;
 
 use Swoole\InstantChat\Extend\InstantUser;
+use VesselBox\VesselBox;
 
 /* 即时聊天整合套件 王智鹏(WAM) CreteDate:2018-3-24 */
 class Chat {

@@ -15,7 +15,9 @@
             "Swoole\\InstantChat\\Core\\": "core/base/",
             "Swoole\\InstantChat\\": "src/",
             "Swoole\\InstantChat\\Error\\": "core/error/",
-            "Swoole\\InstantChat\\Extend\\": "core/extend/"
+            "Swoole\\InstantChat\\Extend\\": "core/extend/",
+            "SimpleModel\\": "core/simplemodel/",
+            "VesselBox\\": "core/vesselbox/"
         }
     }
 }
