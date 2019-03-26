@@ -1,0 +1,21 @@
+{
+    "name": "vender/swoole-instant-chat",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RushWam",
+            "email": "853819841@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "Swoole\\InstantChat\\Core\\": "core/base/",
+            "Swoole\\InstantChat\\": "src/",
+            "Swoole\\InstantChat\\Error\\": "core/error/",
+            "Swoole\\InstantChat\\Extend\\": "core/extend/"
+        }
+    }
+}
